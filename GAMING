@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Floranics.Amigos de las flores</title>  
+</head>
+<link rel="stylesheet" type="text/css" href="tarea.css"/>    
+<body>
+<ul class="navbar">
+    <li><a href="fondopersonal.html">MI EMPRENDIMIENTO</a></li>      
+    
+    
+    </ul>-->
+    
+<div Class="cuerpo">
+
+
+
+<h2> "GAMING-FURY" </h2>
+
+    <h1>COMPUTADORAS Y ACCESORIOS GAMING </h1>
+     <h1>"PODER Y RENDIMIENTO AL MAS ALTO NIVEL" </h1>  
+    
+<div class="img">
+
+<img src="imagen.jpeg"  width="350" height="180" alt="No se encuentra la imagen"/>
+<img src="fury.jpg"  width="400" height="180" alt="No se encuentra la imagen"/>
+    <img src="OMEN.webp"  width="450" height="180" alt="No se encuentra la imagen"/>
+    </div>    
+<p> EN ESTA PAGINA ENCONTARAS  INFORMACIÓN SOBRE LOS PRODUCTOS QUE PODEMOS OFRECERTE Y LAS NOVEDADES QUE TENEMOS 
+    SOBRE EL MUNDO GAMER DE LAS COMPUTADORAS
+><br/>
+    
+</p>
+<h4>PEDIDOS Y RESERVAS </h4>
+    <h4>
+        CEL.68483742  TELEFEONO:44028412
+    </h4>
+
+    
+<p> DIRECCIÓN:CALLE.ESTEBA ARCE-GALERIA FURY OF N6                      
+    
+    </p>
+    
+</div>    
+</body>
+</html>
